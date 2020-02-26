@@ -3,3 +3,4 @@ rencana konten
   * cari smule jepang dan pop indie
 - video tiktok
 - video lagu
+- struktur data
