@@ -2,5 +2,7 @@ rencana konten
 - video smule
   * cari smule jepang dan pop indie
 - video tiktok
+*tiktok jepang
 - video lagu
+*lagu anime
 - struktur data
