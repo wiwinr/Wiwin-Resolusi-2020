@@ -2,4 +2,3 @@ Resolusi Wiwin 2020
 - saya mau konsisten untuk belajar pemrograman sehari minimal 2jam
 - belajar bahasa pemrograman php, html, css, java
 - saya mau membuat web jualan online untuk istri saya
-- membuat vlog
